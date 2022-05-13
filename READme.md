@@ -4,3 +4,5 @@ I implemented a very simple VPN in this lab, and used it to bypass firewalls.
 
 A typical VPN depends on two pieces of technologies: IP tunneling and encryption.
 
+Lab environemnt: LINUX/UNIX - #Ubuntu
+
